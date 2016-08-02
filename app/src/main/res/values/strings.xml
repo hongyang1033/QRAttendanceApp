@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan Now</string>
+    <string name="title_activity_insert">Insert</string>
+    <string name="btnInsert">Confirm</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_activate">Activate</string>
+    <string name="title_activity_display_history">DisplayHistory</string>
+</resources>
